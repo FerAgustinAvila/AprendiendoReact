@@ -6,10 +6,10 @@ Mini página de pocos componentes aprendiendo sobre el uso de React Hooks con us
 ![Apagado](vistas/Apagado.jpg)
 
 
-![Apagado Incremento fallido](vista/ApagadoInc.jpg)
+![Apagado Incremento fallido](vistas/ApagadoInc.jpg)
 
 
-![Encendido](vistas/Encendido.jp
+![Encendido](vistas/Encendido.jpg)
 
 
 ## Uso:
